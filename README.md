@@ -4,7 +4,7 @@ I could not get any technical information about Atari Lynx games, while working 
 
 Some of this was confirmed in [this old document](https://atarilynxdeveloper.wordpress.com/documentation/redeye/). The rest was read out from `SERDAT` and `SERCTL` themselves.
 
-**DISCLAIMER**: this is by no means complete and there are no guarantees about accuracy. Having said that, you may use this information in any way you please. Though it would be nice of you to mention [github.com/superKoder/lynx_game_info/](https://github.com/superKoder/lynx_game_info/main/README.md) as a source whenever you do. 
+**DISCLAIMER**: this is by no means complete and there are no guarantees about accuracy. Having said that, you may use this information in any way you please. Though it would be nice of you to mention [github.com/superKoder/lynx_game_info/](https://github.com/superKoder/lynx_game_info/blob/main/README.md) as a source whenever you do. 
 
 Contributions are welcome!
 
