@@ -57,14 +57,16 @@ This ComLynx handshake is exactly the same as _Pit-Fighter_'s.
 * P2 handshake: `05 00 01 03 FF FF F8` 
 
 
-### Gauntlet III
+### Gauntlet - The Third Encounter
 
 * ID: `01 00`
 * P1 handshake: `05 00 00 01 01 00 F8`
 * P2 handshake: `05 00 01 03 01 00 F5`
 
 
-### Malibu Bikini Beach Ball
+### Malibu Bikini Volleyball
+
+_Malibu Bikini Volleyball_ is an oddball. It doesn't do the usual ritual, but rather handshakes on a single byte!
 
 * ID: n/a
 * P1 handshake: `FF`
@@ -147,5 +149,6 @@ This ComLynx handshake is exactly the same as _Double Dragon_'s.
 * ID: `02 00`
 * P1 handshake: `05 00 00 01 02 00 F7`
 * P2 handshake: `05 00 01 03 02 00 F4`
+
 
 (To be continued... I hope...)
