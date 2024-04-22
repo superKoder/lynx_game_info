@@ -1,6 +1,6 @@
 # Atari Lynx Games ComLynx Configuration
 
-I could not get any technical information about Atari Lynx games, while working on a ComLynx implementation. So I started collecting information as I came across it.
+I could not get any technical information about Atari Lynx games, while working on [my own ComLynx implementation](https://github.com/superKoder/comlynx). So I started collecting information as I came across it.
 
 Some of this was confirmed in [this old document](https://atarilynxdeveloper.wordpress.com/documentation/redeye/). The rest was read out from `SERDAT` and `SERCTL` themselves.
 
